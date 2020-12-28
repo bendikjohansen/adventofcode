@@ -1,0 +1,14 @@
+# JetBrains
+*.iml
+.idea/
+
+# macOS
+.DS_Store
+
+# python
+__pycache__/
+*.p
+venv/
+
+# vscode
+.vscode
